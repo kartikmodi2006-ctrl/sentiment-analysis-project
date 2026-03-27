@@ -80,6 +80,8 @@ pip install -r requirements.txt
 
 ```
 python main.py
+# or on Linux
+python3 main.py
 ```
 
 ---
@@ -146,3 +148,5 @@ Kartik Modi
 
 * This project is fully executable via command line as required.
 * The repository is public for evaluation purposes.
+## Linux Execution
+This project is fully compatible with Linux environments and has been successfully tested using WSL (Windows Subsystem for Linux).
